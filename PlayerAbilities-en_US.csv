@@ -1,0 +1,48 @@
+﻿Keys,English
+HighCommandArmy,High-Command (Army)
+HighCommandArmyDescription,An officer in command. You are able to issue orders to the rank and file.
+HighCommandNaval,High-Command (Navy)
+HighCommandNavalDescription,A captain in command. You have priority over sailing a naval vessel.
+Medicine,Medicine
+MedicineDescription,Well versed in the field of medicine. You are able to heal wounded players.
+HorsebackRiding,Horseback Riding
+HorsebackRidingDescription,Trained in the art of horseback riding. You are able to mount and ride glarious steeds of war.
+EngineeringSpecialist,Engineering
+EngineeringSpecialistDescription,Well versed in the construction of military works. You are able to enact various defensive emplacements and repair cannon.
+EngineeringBasics,Engineering Basics
+EngineeringBasicsDescription,Basic training in the construction of military works. You can assist other engineers build defensive emplacements and construct anti-infantry stakes.
+Carpentry,Carpentry
+CarpentryBasics,Specialises in woodworks. You are able to repair damaged naval vessels and cannon. 
+ArtilleryOperator,Artillery Operator
+ArtilleryOperatorDescription,"Well versed in the operation of various artillery pieces. You have priority over the use of field guns, siege guns and mortars."
+RocketOperator,Rocket Operator
+RocketOperatorDescription,Well versed in the operation of rockets. You have priority over the use of rocket launchers.
+ExplosivesHandling,Explosives Handling
+ExplosivesHandlingDescription,Well versed in the handling of explosives. You are able to carry explosives.
+RankAndFile,Rank & File
+RankAndFileDescription,"Drills, drills and more drills. Your extensive discipline allows you to receive firearm accuracy and melee damage bonuses from orders given by officers. You also gather benefits from musicians and flag bearers."
+Guardsman,Guardsman
+GuardsmanDescription,Duty bound to guard the high-command. You reduce the damage dealt to nearby allied officers by {0}% (Stacks {1} times).
+Musician,Musician
+MusicianDescription,Pomp and circumstance. You increase firearm accuracy of the rank and file by {0}%. Bonus stacks upwards to {1}% if another musician plays a tune with you.
+StandardBearer,Standard Bearer
+StandardBearerDescription,Parade your faction’s colours in the field of battle. You improve the rate at which firearms are reloaded for the rank and file by {0}% when your flag is equipped.
+Abilities,Abilities
+FormLine,Form Line
+FormLineDescription,Instruct the rank and file to form line for glorious musket volley fire to follow. Use the scroll wheel to rotate the marker.
+MakeReady,Make Ready!
+MakeReadyDescription,Instruct the rank and file to make ready their muskets. Infantryman standing in line will receive an order to aim their firearms in preparation for volley fire to commence.
+Fire,Fire!
+FireDescription,Instruct the rank and file to commence glorious volley fire. You increase firearm accuracy of all those good men that act on your order by {0}%.
+FireAtWill,Fire At Will!
+FireAtWillDescription,Instruct the rank and file to commence fire at their own will. You increase firearm accuracy of all those good men standing in line by {0}%.
+CeaseFire,Cease Fire
+CeaseFireDescription,Instruct the rank and file to cease fire. Make use of this to let the gentlemen know they should stop firing.
+Charge,Charge!
+ChargeDescription,Rally your men before a glorious charge and order them to move forward with bayonets equipped. You significantly increase melee damage for a short period of time.
+BreakRankAndFollow,Break Rank & Follow
+BreakRankAndFollowDescription,Instruct the rank and file to break their ranks and follow. Make use of this to let the men know you’re moving position.
+Reinforce,Reinforce
+ReinforceDescription,"Inform the high-command and other gentlemen in the ranks that you’re in dire need of reinforcements. A beacon will be placed on your location.
+These can be toggled on and off by the same key press."
+Orders,Orders

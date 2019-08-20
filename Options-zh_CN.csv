@@ -1,0 +1,326 @@
+﻿Keys,Chinese (Simplified)
+Audio/Ambiance,环境
+Audio/Announcer,播音员
+Audio/Artillery,炮兵
+Audio/Audio,音频
+Audio/Audio Device,音频设备
+Audio/Character Phrases,角色短句
+Audio/Footsteps,脚步
+Audio/Listen Locally,测试麦克风
+Audio/Master,主要
+Audio/Master Volumes,主音量
+Audio/Menu Music,菜单音乐
+Audio/Microphone,麦克风
+Audio/Music Volumes,音乐音量
+Audio/Musician Songs,乐手歌曲
+Audio/Speaker Mode,扬声器模式
+Audio/The Speaker Mode can only be adjusted from the main menu,扬声器模式只能从主菜单调整
+Audio/VOIP,VOIP
+Audio/Weapon Fire,武器射击
+Audio/Weather,天气
+Game,游戏
+Game/Aiming Firearm,火枪瞄准
+Game/Auto Bayonet Switch,自动刺刀切换
+Game/Bounce,Bounce
+Game/Chat/RecruitChannel,招募频道
+Game/Cinematic/DeadX,偏航灵敏度
+Game/Cinematic/DeadY,音高灵敏度
+Game/Cinematic/RotX,偏航速度
+Game/Cinematic/RotY,俯仰速度
+Game/CinematicCamera,电影摄影机
+Game/Crosshair/Blue,蓝色
+Game/Crosshair/Crosshair Configuration,十字准线配置
+Game/Crosshair/Crosshair1,默认
+Game/Crosshair/Crosshair2,箭头
+Game/Crosshair/Crosshair3,幻想
+Game/Crosshair/Crosshair4,线
+Game/Crosshair/Crosshair5,钉
+Game/Crosshair/DynamicCrosshair,动态十字准线
+Game/Crosshair/Green,绿色
+Game/Crosshair/Preview,预习
+Game/Crosshair/Red,红色
+Game/Crosshair/Style,样式
+Game/Crosshair/Transparency,透明度
+Game/Crosshair/WarningMessage,十字准线变化仅在产卵时可见
+Game/Custom Name,自定义名称
+Game/Field Of View,视野
+Game/Freeflight/CinematicMode,电影模式
+Game/Freeroam Camera,反转鼠标Y轴
+Game/Global Sensitivity,全局灵敏度
+Game/Invert Mouse Y,反转鼠标Y轴
+Game/Maximum Corpses,最大尸体数量
+Game/Melee Cam Distance,近战镜头距离
+Game/Melee Combat,近战格斗
+Game/Mouse Sensitivity,鼠标灵敏度
+Game/Normal Speed,正常速度
+Game/Other,其他
+Game/Playe Name Settings can only be adjusted from the Main Menu,玩家名称只能在主菜单修改
+Game/Player Name,玩家名称
+Game/Ragdoll Corpses,物理尸体
+Game/Same Attack Sensitivity,相同的攻击灵敏度
+Game/Seconds InGame,持续秒数
+Game/Show Player Names,显示玩家姓名
+Game/UI/Broadcasted Messages,广播消息
+Game/UI/Buffs Indicators,增益提示
+Game/UI/CenterScreen Dot,中心屏点
+Game/UI/Chat,聊天
+Game/UI/Crosshair,准星
+Game/UI/Friendly Indicator,友军指示
+Game/UI/Friendly Nametags,友军名称
+Game/UI/Health  Weapon,生命值&武器
+Game/UI/Interaction Indicators,互动指标
+Game/UI/Kill Feed,击杀反馈
+Game/UI/LatencyIndicator,延迟指标
+Game/UI/LatencyWarning,延迟警告
+Game/UI/Minimap,小地图
+Game/UI/Objectives Panel,目标面板
+Game/UI/Personal Score,个人得分
+Game/UI/Player Joined Notifications,玩家加入通知
+Game/UI/Reload Indicator,重新装填提示
+Game/UI/Round Info Panel,回合信息面板
+Game/UI/Show Announcer,节目播音员
+Game/UI/Show Server Name,显示服务器名称
+Game/UI/Spectating Text,旁观文本
+Game/UI/VOIP Markers,Voip标记
+Game/Upload Error Log,上传错误日志
+Game/Use Steam Name,使用Steam名称
+Game/UI/EmplacementHealthIndicator,安置健康指标
+Game/UI/OfficerOrderLineIndicatorMarker,官员线指示标记
+Game/UI/OfficerOrderReinforceIndicatorMarker,官员加强指标标记
+Game/User Interface,用户界面
+Keys,按键
+Keys/1st 3rd Person Camera,第1第3人称视角
+Keys/Administration Console,管理控制台
+Keys/Aim Firearm,瞄准
+Keys/Artillery Weapons,火炮
+Keys/Auto Run,自动奔跑
+Keys/Backward,后退
+Keys/Cameras,视角
+Keys/Change Chat Channel,改变语音面板
+Keys/Chat,文字聊天
+Keys/ChatTitle,聊天配置
+Keys/Communications,交流
+Keys/Crouch,下蹲
+Keys/Down,下
+Keys/Equip Lantern,装备手提灯
+Keys/Equip Musical Instrument,装备乐器
+Keys/Equip Spyglass,装备望远镜
+Keys/Fire Firearm,开火
+Keys/Firearm Weapons,火器
+Keys/Forward,前进
+Keys/Freeroam Camera,自由漫游视角
+Keys/Interact,交互
+Keys/Inventory,物品栏
+Keys/Jump,跳跃
+Keys/Last Voice Command,上一语音命令
+Keys/Left,左
+Keys/Lower Next Sail,降下一面帆
+Keys/Melee Attack,近战攻击
+Keys/Melee Block,近战格挡
+Keys/Melee Weapons,近战武器
+Keys/Melee Bash,近战狂欢
+Keys/Miscellaneous,杂项
+Keys/Move Backwards,后退
+Keys/Move Forward,前进
+Keys/Movement,移动
+Keys/Musicians,乐手
+Keys/Mute Players Window,静音玩家窗口
+Keys/Open Music Panel,打开音乐面板
+Keys/Orbit Camera,轨道视角
+Keys/Patriotic Cheer,战吼
+Keys/Push To Talk,按键说话
+Keys/Raise Next Sail,升下一面帆
+Keys/Reload Firearm,重新装填
+Keys/Right,右
+Keys/Rotate Down,向下转
+Keys/Rotate Left,向左转
+Keys/Rotate Right,向右转
+Keys/Rotate Up,向上转
+Keys/Row Backwards,向后划
+Keys/Row Boats,划船
+Keys/Row Forward,向前划
+Keys/Sailing Ships,驾驶帆船
+Keys/Scoreboard,计分板
+Keys/Shout Insult,嘲讽
+Keys/Sprint,冲刺
+Keys/Steer Left,左转舵
+Keys/Steer Right,右转舵
+Keys/Stop Playing Song,停止演奏
+Keys/Strafe Left,左移
+Keys/Strafe Right,右移
+Keys/Toggle Melee Firearm,切换火枪近战
+Keys/Toggle User Interface,切换用户界面
+Keys/ReinforceOrder,加强秩序
+Keys/FormLineOrder,表格行顺序
+Keys/FireAtWillOrder,意志着火
+Keys/ChargeOrder,收费单
+Keys/MakeReady,做好准备
+Keys/Fire,消防令
+Keys/CeaseFire,停火命令
+Keys/BreakRankAndFollow,打破排名并遵循顺序
+Keys/Up,上
+Keys/Voices Panel,语音面板
+Keys/ModeSelection,模式选择
+Keys/Sappers,工兵
+Keys/Officers,长官
+Keys/ToggleOfficerWindow,发布订单栏
+Keys/EquipHammer,装备锤子
+Keys/Walk Run,走/跑
+Options,选项
+Sprint Speed,冲刺速度
+Values/1800s,1800s
+Values/Default,默认
+Values/Extreme,极致
+Values/FXAA,Fxaa
+Values/Gritty,Gritty
+Values/High,高
+Values/KeyCodes/Back Quote,~
+Values/KeyCodes/Backspace,Backspace
+Values/KeyCodes/Down Arrow,↓
+Values/KeyCodes/Enter,Enter
+Values/KeyCodes/Left Alt,左Alt
+Values/KeyCodes/Left Arrow,←
+Values/KeyCodes/Left Click,左键
+Values/KeyCodes/Left Control,左Ctrl
+Values/KeyCodes/Left Shift,左Shift
+Values/KeyCodes/Middle Click,中键
+Values/KeyCodes/Mouse Button 3,鼠标按键3
+Values/KeyCodes/Mouse Button 4,鼠标按键4
+Values/KeyCodes/Mouse Button 5,鼠标按键5
+Values/KeyCodes/Mouse Button 6,鼠标按键6
+Values/KeyCodes/Right Alt,右Alt
+Values/KeyCodes/Right Arrow,→
+Values/KeyCodes/Right Click,右键
+Values/KeyCodes/Right Control,右Ctrl
+Values/KeyCodes/Scroll Lock,Scroll Lock
+Values/KeyCodes/Space,Space
+Values/KeyCodes/Tab,Tab
+Values/KeyCodes/Up Arrow,↑
+Values/Low,低
+Values/Medium,中
+Values/Normal,Normal
+Values/Off,关闭
+Values/SpeakerMode/5 Speaker Surround,5扬声器环绕声
+Values/SpeakerMode/51 Surround,5.1环绕声
+Values/SpeakerMode/71 Surround,7.1环绕声
+Values/SpeakerMode/Dolby Pro Logic 51,杜比定向逻辑5.1
+Values/SpeakerMode/Mono,单声道
+Values/SpeakerMode/Quad,四声道
+Values/SpeakerMode/Stereo,双声道
+Values/TAA,Taa
+Values/Ultra,Ultra
+Values/Very High,非常高
+Values/Very Low,非常低
+Video,视频
+Video/Advanced,高级的
+Video/Ambient Occlusion,环境光遮蔽
+Video/Anisotropic Textures,各向异性纹理
+Video/Antialiasing,抗锯齿
+Video/Blend Weights,动画质量
+Video/Bloom,全屏泛光
+Video/Brightness,亮度
+Video/Cannonball Trails,炮弹轨迹
+Video/Color Adjustments,颜色调整
+Video/Color Profile,颜色配置
+Video/Contact Shadows,接触阴影
+Video/Contrast,对比度
+Video/Depth Of Field,景深
+Video/Display,显示
+Video/FPS Limit,Fps上限
+Video/Framerate,帧率
+Video/Fullscreen,全屏
+Video/Graphics Preset,图形预设
+Video/Grass Density,草丛密度
+Video/Grass Distance,草丛距离
+Video/LOD Quality,LOD质量
+Video/Lens Dirt Effects,镜头污垢效果
+Video/Lens Flare,镜头光晕
+Video/Ocean Quality,海洋质量
+Video/Resolution,分辨率
+Video/Shadow Distance,阴影距离
+Video/Shadow Quality,阴影质量
+Video/Sharpen Image,锐化图像
+Video/Skybox Quality,天空盒质量
+Video/Sun Rays,光线
+Video/Texture Quality,纹理质量
+Video/VSYNC,垂直同步
+Video/Vignetting,渐晕
+Video/Volumetric Lights,体积灯
+Values/ShortKeyCodes/BackQuote,`
+Values/ShortKeyCodes/Backspace,BCK
+Values/ShortKeyCodes/Return,ENT
+Values/ShortKeyCodes/UpArrow,ARU
+Values/ShortKeyCodes/LeftArrow,ARL
+Values/ShortKeyCodes/RightArrow,ARR
+Values/ShortKeyCodes/DownArrow,ARD
+Values/ShortKeyCodes/Mouse0,LMB
+Values/ShortKeyCodes/Mouse1,RMB
+Values/ShortKeyCodes/Mouse2,MMB
+Values/ShortKeyCodes/Mouse3,MB3
+Values/ShortKeyCodes/Mouse4,MB4
+Values/ShortKeyCodes/Mouse5,MB5
+Values/ShortKeyCodes/Mouse6,MB6
+Values/ShortKeyCodes/LeftControl,LCT
+Values/ShortKeyCodes/RightControl,RCT
+Values/ShortKeyCodes/LeftShift,LSH
+Values/ShortKeyCodes/RightShift,RSH
+Values/ShortKeyCodes/LeftAlt,LAT
+Values/ShortKeyCodes/RightAlt,RAT
+Values/ShortKeyCodes/Space,SPC
+Values/ShortKeyCodes/Tab,TAB
+Values/ShortKeyCodes/Insert,INS
+Values/ShortKeyCodes/Home,HOM
+Values/ShortKeyCodes/Alpha0,0
+Values/ShortKeyCodes/Alpha1,1
+Values/ShortKeyCodes/Alpha2,2
+Values/ShortKeyCodes/Alpha3,3
+Values/ShortKeyCodes/Alpha4,4
+Values/ShortKeyCodes/Alpha5,5
+Values/ShortKeyCodes/Alpha6,6
+Values/ShortKeyCodes/Alpha7,7
+Values/ShortKeyCodes/Alpha8,8
+Values/ShortKeyCodes/Alpha9,9
+Values/ShortKeyCodes/Keypad0,K0
+Values/ShortKeyCodes/Keypad1,K1
+Values/ShortKeyCodes/Keypad2,K2
+Values/ShortKeyCodes/Keypad3,K3
+Values/ShortKeyCodes/Keypad4,K4
+Values/ShortKeyCodes/Keypad5,K5
+Values/ShortKeyCodes/Keypad6,K6
+Values/ShortKeyCodes/Keypad7,K7
+Values/ShortKeyCodes/Keypad8,K8
+Values/ShortKeyCodes/Keypad9,K9
+Values/ShortKeyCodes/KeypadPeriod,.
+Values/ShortKeyCodes/KeypadDivide,/
+Values/ShortKeyCodes/KeypadMultiply,*
+Values/ShortKeyCodes/KeypadMinus,MIN
+Values/ShortKeyCodes/KeypadPlus,+
+Values/ShortKeyCodes/KeypadEnter,ENT
+Values/ShortKeyCodes/KeypadEquals,=
+Values/ShortKeyCodes/PageUp,PGU
+Values/ShortKeyCodes/PageDown,PGD
+Values/ShortKeyCodes/Numlock,NLK
+Values/ShortKeyCodes/CapsLock,CLK
+Values/ShortKeyCodes/ScrollLock,SLK
+Values/ShortKeyCodes/Help,HLP
+Values/ShortKeyCodes/Print,PRT
+Values/ShortKeyCodes/SysReq,SYS
+Values/ShortKeyCodes/Break,BRK
+Values/ShortKeyCodes/Menu,MNU
+Values/ShortKeyCodes/RightBracket,]
+Values/ShortKeyCodes/LeftBracket,[
+Values/ShortKeyCodes/Backslash,\
+Values/ShortKeyCodes/Equals,=
+Values/ShortKeyCodes/Semicolon,;
+Values/ShortKeyCodes/Colon,:
+Values/ShortKeyCodes/Slash,/
+Values/ShortKeyCodes/Period,.
+Values/ShortKeyCodes/Minus,MIN
+Values/ShortKeyCodes/Comma,","
+Values/ShortKeyCodes/Plus,+
+Values/ShortKeyCodes/Asterisk,*
+Values/ShortKeyCodes/Quote,'
+Values/ShortKeyCodes/Pause,PSE
+Values/ShortKeyCodes/Escape,ESC
+Values/ShortKeyCodes/Clear,CLR
+Video/Preset,预置

@@ -1,0 +1,105 @@
+﻿Keys,English
+Spyglass,Spyglass
+SpyglassDescription,Spot the enemy at a distance. Press ‘{0}’ to equip the spyglass.
+Lantern,Lantern
+LanternDescription,Light your way through the dark or make known your position. Press ‘{0}’ to equip the lantern.
+MarchingDrumFrench,Drums
+MarchingDrumBritish,Drums
+MarchingDrumPrussian,Drums
+MarchingDrumFrenchDescription,Pomp and circumstance. Gloriously drum your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+MarchingDrumBritishDescription,Pomp and circumstance. Gloriously drum your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+MarchingDrumPrussianDescription,Pomp and circumstance. Gloriously drum your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+Musket_SeaServiceBrownBess,Sea Service Brown Bess
+Musket_CharlevilleMarinePatternANIX,Charleville Musket Marine-Pattern An IX
+Musket_IndiaPatternBrownBess,India-Pattern Brown Bess
+Musket_CharlevilleIXXII,Charleville Musket IX/XIII
+Musket_NewLandPatternBrownBess,New Land Pattern Brown Bess
+Musket_CharlevilleGuardPattern,Charleville Musket Guard Pattern
+Musket_NewLandLightInfantryPatternBrownBess,New Land Light Infantry Pattern Brown Bess
+Musket_CharlevilleDragoonPattern,Charleville Musket Dragoon Pattern
+Carbine_Elliot,Elliot Carbine
+Carbine_CharlevilleCavalryIXXIII,Charleville Cavalry Carbine IX/XIII
+Carbine_1089Pattern,1089 Pattern Carbine
+Rifle_Pattern1800Infantry,Baker Rifle (Pattern 1800 Infantry Rifle)
+Rifle_CharlevilleDragoonPattern_NoBayonet,Charleville Musket Dragoon Pattern
+Pistol_SeaService,Sea Service Pistol
+Pistol_XIII,Pistol XIII
+Pistol_NewLandPattern,New Land-Pattern Pistol
+Pistol_PrussianHussar,Prussian Hussar Pistol
+Blunderbuss_Variation1,Blunderbuss
+Blunderbuss_Variation2,Blunderbuss
+Axe2H_Variation1,Two-Handed Axe
+Axe2H_Variation2,Two-Handed Axe
+Carpenter_Adze,Carpenter Adze
+Carpenter_Axe,Carpenter Axe
+Sword_Pattern1803FlankOfficer,Pattern 1803 Flank Officer's Sabre
+Sword_1796Heavy,1796 Heavy Sword
+Sword_XIHeavy,XI Heavy Sword
+Sabre_AnXILight,An XI Light Sabre
+Sabre_1715Pattern,1715 Pattern Sabre
+Sabre_PrussianHussar,Prussian Hussar Sabre
+Sabre_1796PatternLight,1796 Pattern Light Sabre
+Sword_Bayonet,Sword Bayonet
+Sabre_Briquet,Sabre Briquet
+Hanger_Variation1,Hanger
+Hanger_Variation2,Hanger
+Cutlass_1804PatternNaval,1804 Pattern Naval Cutlass
+Cutlass_YearIXBoardingSabre,Year IX Boarding Sabre
+Dagger_Variation1,Dagger
+Dagger_Variation2,Dagger
+Knife_Variation1,Knife
+Knife_Variation2,Knife
+BoardingPike_Variation1,Boarding Pike
+BoardingPike_Variation2,Boarding Pike
+Melee,Melee
+Firearm,Firearm
+Miscellaneous,Miscellaneous
+Violin,Violin
+BearingFlagBritish,Flag
+BearingFlagFrench,Flag
+BearingFlagPrussian,Flag
+Bagpipes,Bagpipes
+BagpipesDescription, A true scotsman weapon of choice. Gloriously pipe your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+ConstructingHammer,Hammer
+DeconstructingHammer,Sledge Hammer
+DiggingSpade,Spade
+FifeFrench,Fife
+FifeBritish,Fife
+FifePrussian,Fife
+FifeBritishDescription,Pomp and circumstance. Gloriously fife your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+FifePrussianDescription,Pomp and circumstance. Gloriously fife your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+FifeFrenchDescription,Pomp and circumstance. Gloriously fife your way through the field of battle and support the rank and file. Press ‘{0}’ to equip this instrument.
+Damage,Damage
+Reach,Reach
+Accuracy,Accuracy
+ReloadTime,Reload Time
+AbleToBlock,Able To Block
+StrikeDirections,Strike Directions
+Range,Range
+Yes,Yes
+No,No
+Seconds,seconds
+Ammunition,Ammunition
+Shots,Shots
+Bayonet,Bayonet
+Speed,Speed
+ViolinDescription,"A slender neck, gracefully curved body and smooth finish. In the hands of a master, it sings like the haunting siren’s call. Press ‘{0}’ to equip this instrument."
+BayonetDescription,The musket’s pointy end. Attach it to your trusty firearm and make use of it as a spear by pressing '{0}'.
+MusketDescription,"Muzzle loaded firearm equipped with a pointy end. Manufactured en masse, they’re your best bet at making quick work of your enemy."
+RifleDescription,"Crackshot’s weapon of choice. Effective at long ranges, it's one firearm to be weary of."
+CarbineDescription,"Shorter, lighter and much easier to handle than a musket. It is preferred by units riding on horseback or those carrying heavy loads."
+PistolDescription,Single-shot muzzle loaded firearm limited by its short range and damage but quick to reload. A solid defensive choice for a front-line unit.
+BlunderbussDescription,Shotgun. Capable of ending multiple infantryman at one go.
+CutlassDescription,A brutal slashing weapon primarily associated with naval troops. A scary choice for a close encounter.
+OfficerWeaponDescription,"Slash and thrust. Firmly take hold of its hilt, rally the troops and make your stand."
+ShortBladedSwordDescription,Short-bladed sword. Equip this when things get up close and personal.
+KnifeDescription,It’s better than doing the notorious deed with your bare fists.
+2HAxeDescription,Its sheer force makes this weapon’s use ideal when going against player-built defences.
+DeconstructingHammerDescription,Topple down enemy defences or deconstruct your own. Its relatively efficient at gathering back materials to construct defences with.
+1HAxeDescription,"Swung with one-hand, this melee weapon is effective against both player-built constructions and infantryman alike."
+BearingFlagDescription,Rally the troops. Fly your faction’s standard to support the rank and file.
+ConstructingHammerDescription,"Construct player-built defences, repair artillery or gently tap an unsuspecting fellow’s head. Press ‘{0}’ to equip the hammer and start constructing defences."
+CannonRamRodDescription,"Make ready the guns. Ram field guns, long guns and artillery pieces or valiantly attempt to fend off enemies with it."
+SpadeDescription,Digging tool. Make use of it to raise earthworks and bolster your team’s defences.
+BoardingPikeDescription,Fend off enemy crewman aboard your ship’s deck. Make use of its range to your advantage.
+CannonRamRod,Ram Rod

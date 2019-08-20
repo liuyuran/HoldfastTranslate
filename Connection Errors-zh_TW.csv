@@ -1,0 +1,56 @@
+﻿Keys,Chinese (Traditional)
+AlreadyConnectedHeader,已經連接
+YouAreStillConnected,您仍然連接到服務器。等待一會兒，然後再嘗試重新加入。
+BannedByAdministratorHeader,被管理員禁止
+DeniedAccessToTheServer,您被拒絕訪問服務器。
+ContactServerAdministratorToAppeal,聯繫相關服務器管理員以申請禁令。
+KickedByAdministratorHeader,被管理員踢了
+YouHaveBeenKickedByAnAdministrator,你被管理員踢了。
+EnsureToAbideByTheRules,確保您遵守服務器的規則。
+GameClientNotUpdatedHeader,遊戲客戶端未更新
+GameClientNotUpdated,Holdfast：戰爭中的國家已經更新！重新啟動遊戲以下載最新版本。
+DownloadBySteamInstructionTitle,您可以通過執行以下操作強制Steam下載最新版本：
+DownloadBySteamInstructionBody,"1.退出Holdfast：戰爭中的國家。
+2.在Steam遊戲庫中找到Holdfast：Nations At War。
+3.右鍵單擊Holdfast：Nations At War，然後從下拉菜單中選擇“屬性”。
+4.轉到“本地文件”選項卡。
+5.單擊“驗證遊戲文件的完整性...”按鈕。
+6.等到Steam完成驗證遊戲文件然後重新啟動遊戲。"
+GameServerNotUpdatedHeader,遊戲服務器未更新
+GameServerNotUpdated,遊戲服務器不及最新版本的Holdfast：Nations War。
+ContactServerAdminToUpdateServer,請與相關服務器管理員聯繫以更新服務器。
+PasswordIsIncorrectHeader,密碼不正確
+EnteredPasswordIsIncorrect,您輸入密碼不正確。
+PasswordsAreCaseSensitive,密碼區分大小寫。確保未啟用“大寫鎖定”鍵。
+GameServerIsFullHeader,遊戲服務器已滿
+GameServerCurrentlyFull,遊戲服務器目前已滿。
+JoinAnotherServerOrWaitForSlot,請加入其他服務器或等到插槽可用。
+ServerShutdownHeader,服務器關機
+ServerWasShutdown,服務器已關閉。請加入其他服務器繼續播放。
+DisconnectedHeader,斷開的
+YouHaveBeenDisconnected,你已經與服務器斷開連接。
+YouMustBeConnectedToSteam,確保您沒有在“離線模式”下運行Steam。您必須連接到Steam才能玩。
+UnableToConnectHeader,無法連接
+CheckInternetConnectionStability,您無法連接到服務器。確保您的互聯網連接穩定。
+TroubleshootInstructionHeader,還建議嘗試以下故障排除方法：
+TroubleshootInstructionBody,"1.退出然後再回到Steam上。
+2.重新啟動Internet連接。
+3.重新啟動路由器。
+4.暫時禁用可能阻止連接的任何防病毒或防火牆。
+5.確保您沒有在VPN後面操作。
+6.通過Steam驗證遊戲文件的完整性。
+7.確保您沒有在“離線模式”下運行Steam。您必須連接到Steam才能玩。
+8.轉到'\ AppData \ LocalLow \ Anvil Game Studio'並刪除'Holdfast NaW'文件夾。
+8.2。備份'muteplayerschat'和'muteplayersvoip'文本文件，因為它們包含您的靜音播放器信息。
+9.嘗試通過Steam上的朋友聯繫。
+10.嘗試使用其他互聯網連接（如果有）。"
+RequestFurtherAssistance,請求Discord的進一步幫助。錯誤ID為{0}。
+SteamUnableToAuthenticateHeader,蒸汽無法驗證
+AuthenticateInstructionBody,"您無法通過Steam進行身份驗證。您必須連接到Steam才能玩。
+嘗試以下故障排除方法：
+
+1.退出Steam。
+2.重新登錄Steam。
+3.重新啟動Holdfast：戰爭中的國家。"
+ServerMessageHeader,服務器消息
+SteamConnectionHeader,蒸汽連接

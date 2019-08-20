@@ -1,0 +1,56 @@
+﻿Keys,Chinese (Simplified)
+AlreadyConnectedHeader,已经连接
+YouAreStillConnected,您仍然连接到服务器。等待一会儿，然后再尝试重新加入。
+BannedByAdministratorHeader,被管理员禁止
+DeniedAccessToTheServer,您被拒绝访问服务器。
+ContactServerAdministratorToAppeal,联系相关服务器管理员以申请禁令。
+KickedByAdministratorHeader,被管理员踢了
+YouHaveBeenKickedByAnAdministrator,你被管理员踢了。
+EnsureToAbideByTheRules,确保您遵守服务器的规则。
+GameClientNotUpdatedHeader,游戏客户端未更新
+GameClientNotUpdated,Holdfast：战争中的国家已经更新！重新启动游戏以下载最新版本。
+DownloadBySteamInstructionTitle,您可以通过执行以下操作强制Steam下载最新版本：
+DownloadBySteamInstructionBody,"1.退出Holdfast：战争中的国家。
+2.在Steam游戏库中找到Holdfast：Nations At War。
+3.右键单击Holdfast：Nations At War，然后从下拉菜单中选择“属性”。
+4.转到“本地文件”选项卡。
+5.单击“验证游戏文件的完整性...”按钮。
+6.等到Steam完成验证游戏文件然后重新启动游戏。"
+GameServerNotUpdatedHeader,游戏服务器未更新
+GameServerNotUpdated,游戏服务器不及最新版本的Holdfast：Nations War。
+ContactServerAdminToUpdateServer,请与相关服务器管理员联系以更新服务器。
+PasswordIsIncorrectHeader,密码不正确
+EnteredPasswordIsIncorrect,您输入密码不正确。
+PasswordsAreCaseSensitive,密码区分大小写。确保未启用“大写锁定”键。
+GameServerIsFullHeader,游戏服务器已满
+GameServerCurrentlyFull,游戏服务器目前已满。
+JoinAnotherServerOrWaitForSlot,请加入其他服务器或等到插槽可用。
+ServerShutdownHeader,服务器关机
+ServerWasShutdown,服务器已关闭。请加入其他服务器继续播放。
+DisconnectedHeader,断开的
+YouHaveBeenDisconnected,你已经与服务器断开连接。
+YouMustBeConnectedToSteam,确保您没有在“离线模式”下运行Steam。您必须连接到Steam才能玩。
+UnableToConnectHeader,无法连接
+CheckInternetConnectionStability,您无法连接到服务器。确保您的互联网连接稳定。
+TroubleshootInstructionHeader,还建议尝试以下故障排除方法：
+TroubleshootInstructionBody,"1.退出然后再回到Steam上。
+2.重新启动Internet连接。
+3.重新启动路由器。
+4.暂时禁用可能阻止连接的任何防病毒或防火墙。
+5.确保您没有在VPN后面操作。
+6.通过Steam验证游戏文件的完整性。
+7.确保您没有在“离线模式”下运行Steam。您必须连接到Steam才能玩。
+8.转到'\ AppData \ LocalLow \ Anvil Game Studio'并删除'Holdfast NaW'文件夹。
+8.1。备份'muteplayerschat'和'muteplayersvoip'文本文件，因为它们包含您的静音播放器信息。
+9.尝试通过Steam上的朋友联系。
+10.尝试使用其他互联网连接（如果有）。"
+RequestFurtherAssistance,请求Discord的进一步帮助。错误ID为{0}。
+SteamUnableToAuthenticateHeader,蒸汽无法验证
+AuthenticateInstructionBody,"您无法通过Steam进行身份验证。您必须连接到Steam才能玩。
+尝试以下故障排除方法：
+
+1.退出Steam。
+2.重新登录Steam。
+3.重新启动Holdfast：战争中的国家。"
+ServerMessageHeader,服务器消息
+SteamConnectionHeader,蒸汽连接

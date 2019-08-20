@@ -1,0 +1,80 @@
+﻿Keys,Chinese (Traditional)
+Aim Cannon,瞄準
+Aim Rocket,瞄準
+Assist Build Object,建立工事 - 協助
+Assist Repair Object,修復工事 - 協助
+Build Object,建立工事
+Cancel Launch Rowboat,取消下水划艇
+Cancel Load Ammo,取消裝載彈藥
+Cancel Load Rocket Ammo,取消裝載火箭
+Cancel Packing Rocket Rack,取消收起火箭發射器
+Cancel Ram Ammo,取消沖壓彈藥
+Cancel Unpacking Rocket Rack,取消安裝火箭發射器
+CancelDefuseExplosiveBarrel,取消拆除爆炸桶
+Carry Ladder,攜帶梯子
+Carry Rocket Rack,攜帶火箭發射器
+CarrySwivelGunBarrel,攜帶回轉炮
+CancelCarrySwivelGunBarrel,取消攜帶回轉炮
+Climb,爬
+Close,關閉
+Damage Object,擊中工事
+Deconstruct Object,擊毀工事
+DefuseExplosiveBarrel,破壞爆炸桶
+Drop Ladder,丟掉梯子
+Fire Cannon,开炮
+Fire Rocket,發射火箭
+FireamRefillCancel,取消補充彈藥
+FirearmRefill,撿起{0} {1}子彈[{2}]
+FirearmRefillGeneric,撿起{0}火器彈藥筒[{1}]
+FullFirearmWeapons,你不能攜帶更多槍支
+FullMeleeWeapons,你不能攜帶更多的近戰武器
+GunNotFoundForThatAmmo,你沒有{0}
+GunNotSuitable,裝備你的槍支
+Hold,按住
+Launch Rowboat,划船
+LeftClick,鼠標左鍵點擊
+Load Ladder,升起梯子
+NoAmmoRemaining,彈藥已無剩餘
+NoAmmoRemainingForYou,你拿了你的那份
+NoAmmoRequired,{0}彈藥已滿
+NoMoreWeaponRemaining,沒有{0}了
+Open,打開
+Pack Rocket Rack,收起火箭發射器
+PickupWeapon,撿起{0} [{1}]
+PickupWeaponCancel,取消撿起{0}
+Place Object,安置工事
+Play,演奏
+PlayInworldSoundBell,響鈴
+PlayInworldSoundChurchBell,響鈴
+PlayInworldSoundShipBell,響鈴
+Press,按
+Pump,泵
+Push Cannon,推大炮
+Release,發布
+Repair Object,修復工事
+Sail Ship,駕駛船隻
+Set Assist Ladder Moveable,移動梯子 - 協助
+Set Assist Movable,移動大砲 - 協助
+Set Assist Rocket Moveable,攜帶火箭發射器 - 協助
+Set Load Ammo,裝填彈藥
+Set Load Rocket Ammo,裝載火箭
+Set Movable,移動大砲
+Set Ram Ammo,沖壓彈藥
+Sit,坐
+Stop Assist Ladder Moveable,停止移動梯子 - 協助
+Stop Assist Moving,停止移動大砲 - 協助
+Stop Assist Rocket Moveable,停止攜帶火箭發射器 - 協助
+Stop Carrying Rocket Rack,停止攜帶火箭發射器
+Stop Moving,停止移動大砲
+Turn Off,熄滅
+Turn On,點亮
+Unload Ladder,下階梯
+Unpack Rocket Rack,安裝火箭發射器
+Use ammo box,使用彈藥箱
+Use rocket stack,使用火箭堆
+UseExplosiveBarrel,使用爆炸桶
+UseLanternBox,使用提燈
+UseSpyglassBox,使用望遠鏡盒
+Wait,等待
+WeaponNotFound,你不能使用{0}
+YouAlreadyHaveThatWeapon,你已經有了{0}

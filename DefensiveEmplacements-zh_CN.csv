@@ -1,0 +1,29 @@
+﻿Keys,Chinese (Simplified)
+Ammobox,弹药箱
+ArtilleryMenu,炮兵
+CannotPlaceObject,您无法在此处放置物体。
+ChevauxDeFriseLarge,Chevaux De Frize（l）
+ChevauxDeFriseSmall,Chevaux De Frize（s）
+DefensiveEmplacementsMenu,防御建筑
+Earthworks,土木工程
+EarthworksMenu,土木工程
+EmplacementBuildLimitExceeded,无法建造{0}，因为此类型的建筑太多。
+EmplacementPlaced,已放置{0}。
+ExplosiveBarrel,爆炸桶
+Gabion,石笼
+HammerConstructMode,掩体建造模式
+HammerDeconstructMode,掩体拆除模式
+HammerNotEquipped,你需要装备一个锤子来完成这个操作。
+InfantryStakes,矛刺木桩
+LeftClick,鼠标左键点击
+MaterialPoints,材料点
+Materials,材料
+MaterialsRequired,所需材料：
+None,无
+NotEnoughMaterials,您的阵营没有足够的材料来建造此建筑。
+RocketStack,火箭堆
+Sandbags,沙包
+SpadeConstructMode,挖掘模式
+SpadeDeconstructMode,填平模式
+SwitchedSapperMode,切换模式为：{0}
+SwivelGunBarrel,速射炮

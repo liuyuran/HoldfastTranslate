@@ -1,0 +1,29 @@
+﻿Keys,Chinese (Traditional)
+Ammobox,彈藥箱
+ArtilleryMenu,砲兵
+CannotPlaceObject,您無法在此處放置物體。
+ChevauxDeFriseLarge,Chevaux De Frize（l）
+ChevauxDeFriseSmall,Chevaux De Frize（s）
+DefensiveEmplacementsMenu,防禦建築
+Earthworks,土方工程
+EarthworksMenu,土方工程
+EmplacementBuildLimitExceeded,無法建造{0}，因為此類型的建築太多。
+EmplacementPlaced,已放置{0}。
+ExplosiveBarrel,爆炸桶
+Gabion,石籠
+HammerConstructMode,進駐建設模式
+HammerDeconstructMode,進駐解構模式
+HammerNotEquipped,你需要裝備一個錘子來完成這個操作。
+InfantryStakes,步兵樁
+LeftClick,鼠標左鍵點擊
+MaterialPoints,材料點
+Materials,材料
+MaterialsRequired,所需材料：
+None,无
+NotEnoughMaterials,您的陣營沒有足夠的材料來建造此建築。
+RocketStack,火箭堆
+Sandbags,沙包
+SpadeConstructMode,挖掘模式
+SpadeDeconstructMode,填平模式
+SwitchedSapperMode,切換模式為：{0}
+SwivelGunBarrel,旋轉槍管

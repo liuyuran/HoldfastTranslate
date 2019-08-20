@@ -1,0 +1,60 @@
+﻿Keys,Chinese (Simplified)
+Attributes,属性
+Back,后退
+BattleStartsIn,战斗开始于
+Class,兵种
+Class Selection,选择兵种
+ClassSlotFull,此兵种数量已满。选择另一个兵种。
+Enlist,加入
+Equip,装备
+Faction Reinforcements,阵营后备兵力
+Freeroam Camera,自由漫游视角
+Game Mode Info,游戏模式信息
+Join,加入
+Join Round,开始战斗
+Location,位置
+MaxFactionPlayersReached,阵营中玩家太多。
+Options,选项
+Player,玩家
+Players,玩家
+Select Class,选择兵种
+Select Faction,选择阵营
+Select Spawn,选择增援区域
+Ship Sunk,沉没
+Spawn,增援
+Spawn Out Of Reinforcements,你所在的阵营后备兵力已耗尽，请等待下一回合。
+SpawnContested,该区域正在被敌军争夺，无法用来进行增援。
+Spectate,旁观
+Troops,分队
+Waiting for other players to join,等待其他玩家加入
+Waiting for players to,等待玩家
+You must wait for the next round to spawn,你必须等到下一回合出生
+Regiment,所属编制
+Role,角色
+Health,体能水平
+Agility,行军速度
+Swimming,泅水速度
+Damage,伤害
+Accuracy,准确性
+Range,射程
+Abilities,能力
+Orders,命令
+Traits,性状
+ReloadTime,装填时间
+Ammunition,弹药
+BaseSpawn,大本营
+FortifiedPosition,筑垒阵地
+OpenPlains,开阔平原
+Farm,农场
+Field,田地
+Village,城镇
+Camp,瞭望哨
+Lodge,小屋
+Church,教堂
+Ruins,废墟
+Ship,船
+Port,港口
+LandSpawnSection,陆地出生点
+ShipSpawnSection,船舶出生点
+FactionFull,阵营已满
+Crew,船员

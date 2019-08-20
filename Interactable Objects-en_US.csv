@@ -1,0 +1,80 @@
+﻿Keys,English
+Aim Cannon,Aim Cannon
+Aim Rocket,Aim Rocket Launcher
+Assist Build Object,Build Emplacement - Assist
+Assist Repair Object,Repair Emplacement - Assist
+Build Object,Build Emplacement
+Cancel Launch Rowboat,Cancel Launch Rowboat
+Cancel Load Ammo,Cancel Load Ammo
+Cancel Load Rocket Ammo,Cancel Loading Rocket
+Cancel Packing Rocket Rack,Cancel Packing Rocket Launcher
+Cancel Ram Ammo,Cancel Ram Ammo
+Cancel Unpacking Rocket Rack,Cancel Unpacking Rocket Launcher
+CancelDefuseExplosiveBarrel,Cancel Defuse Explosive Barrel
+Carry Ladder,Carry Ladder
+Carry Rocket Rack,Carry Rocket Launcher
+CarrySwivelGunBarrel,Carry Swivel Gun
+CancelCarrySwivelGunBarrel,Cancel Carry Swivel Gun
+Climb,Climb
+Close,Close
+Damage Object,Hit Emplacement
+Deconstruct Object,Deconstruct Emplacement
+DefuseExplosiveBarrel,Defuse Explosive Barrel
+Drop Ladder,Drop Ladder
+Fire Cannon,Fire Cannon
+Fire Rocket,Fire Rocket
+FireamRefillCancel,Cancel Refill Ammo
+FirearmRefill,Pick {0} {1} Cartridges [{2}]
+FirearmRefillGeneric,Pick {0} Firearm Cartridges [{1}]
+FullFirearmWeapons,You Can't Carry More Firearms
+FullMeleeWeapons,You Can't Carry More Melee Weapons
+GunNotFoundForThatAmmo,You Don't Have A {0}
+GunNotSuitable,Equip Your Firearm
+Hold,Hold
+Launch Rowboat,Launch Rowboat
+LeftClick,Left-Click
+Load Ladder,Raise Ladder
+NoAmmoRemaining,No More Ammo Remaining
+NoAmmoRemainingForYou,You Took Your Share
+NoAmmoRequired,You're Full On {0} Ammo
+NoMoreWeaponRemaining,No More {0} Remaining
+Open,Open
+Pack Rocket Rack,Pack Rocket Launcher
+PickupWeapon,Pick {0} [{1}]
+PickupWeaponCancel,Cancel Pick {0}
+Place Object,Place Emplacement
+Play,Play
+PlayInworldSoundBell,Ring Bell
+PlayInworldSoundChurchBell,Ring Bell
+PlayInworldSoundShipBell,Ring Bell
+Press,Press
+Pump,Pump
+Push Cannon,Push Cannon
+Release,Release
+Repair Object,Repair Emplacement
+Sail Ship,Sail Ship
+Set Assist Ladder Moveable,Move Ladder - Assist
+Set Assist Movable,Move Cannon - Assist
+Set Assist Rocket Moveable,Carry Rocket Launcher - Assist
+Set Load Ammo,Load Ammo
+Set Load Rocket Ammo,Load Rocket
+Set Movable,Move Cannon
+Set Ram Ammo,Ram Ammo
+Sit,Sit
+Stop Assist Ladder Moveable,Stop Move Ladder - Assist
+Stop Assist Moving,Stop Moving Cannon - Assist
+Stop Assist Rocket Moveable,Stop Carrying Rocket Launcher - Assist
+Stop Carrying Rocket Rack,Stop Carrying Rocket Launcher
+Stop Moving,Stop Moving Cannon
+Turn Off,Turn Off
+Turn On,Turn On
+Unload Ladder,Lower Ladder
+Unpack Rocket Rack,Unpack Rocket Launcher
+Use ammo box,Use Ammo Box
+Use rocket stack,Use Rocket Stack
+UseExplosiveBarrel,Use Explosive Barrel
+UseLanternBox,Use Lantern Box
+UseSpyglassBox,Use Spyglass Box
+Wait,Wait
+WeaponNotFound,You Can't Use A {0}
+YouAlreadyHaveThatWeapon,You Already Have A {0}

@@ -1,0 +1,14 @@
+﻿Keys,Chinese (Traditional)
+HighCommandArmy/Description,按“{0}”發出指令
+Musician/Description,按“{0}”裝備{1}
+Engineer/Description,按“{0}”裝備錘子
+Medic/Description,按住“{0}”來治療附近的盟友
+GameplayHints,提示
+Tooltips,工具提示
+MusicianToggle/Description,按“{0}”播放一首曲子
+EngineerToggle/Description,按住'{0}'來建造
+SwitchToMeleeHint,按“{0}”切換到近戰模式
+SwitchToFirearmHint,按“{0}”切換到射擊模式
+HighCommandArmyToggle/Description,按“{0}”停止下達指令
+OrdersAreDisabled,指令被禁用
+SailForwardDescription,按“{0}”啟航
