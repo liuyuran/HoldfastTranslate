@@ -1,18 +1,19 @@
-﻿Crews  Regiments,成员&军团
-Exit,退出
-Language,语言
-Play,开始游戏
-Settings,设置
-Tournaments,锦标赛
-Leaderboards,排行榜
-MyPosition,我的位置
-Rank,Rank
-Global,全球
-Class,类
-Melee,乱斗
-Regiment,团
-Crew,船员
-Medals,奖牌
-XP,经验
-Player,玩家
-Score,分数
+﻿"source","target"
+"Crews  Regiments","成员&军团"
+"Exit","退出"
+"Language","语言"
+"Play","开始游戏"
+"Settings","设置"
+"Tournaments","锦标赛"
+"Leaderboards","排行榜"
+"MyPosition","我的位置"
+"Rank","Rank"
+"Global","全球"
+"Class","类"
+"Melee","近战武器"
+"Regiment","团"
+"Crew","船员"
+"Medals","奖牌"
+"XP","经验"
+"Player","玩家"
+"Score","分数"
