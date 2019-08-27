@@ -70,7 +70,7 @@ Game/UI/Health  Weapon,Health & Weapon
 Game/UI/Interaction Indicators,Interaction Indicators
 Game/UI/Kill Feed,Kill Feed
 Game/UI/LatencyIndicator,Latency Indicator
-Game/UI/LatencyWarning,Latency Warning
+Game/UI/LatencyWarning,Warnings
 Game/UI/Minimap,Minimap
 Game/UI/Objectives Panel,Objectives Panel
 Game/UI/Personal Score,Personal Score
@@ -84,8 +84,8 @@ Game/UI/VOIP Markers,Voip Markers
 Game/Upload Error Log,Upload Error Log
 Game/Use Steam Name,Use Steam Name
 Game/UI/EmplacementHealthIndicator,Emplacement Health Indicator
-Game/UI/OfficerOrderLineIndicatorMarker,Officer Line Indicator Marker
-Game/UI/OfficerOrderReinforceIndicatorMarker,Officer Reinforce Indicator Marker
+Game/UI/OfficerOrderLineIndicatorMarker,Officer Line Indicator
+Game/UI/OfficerOrderReinforceIndicatorMarker,Officer Reinforce Indicator
 Game/User Interface,User Interface
 Keys,Keys
 Keys/1st 3rd Person Camera,1st 3rd Person Camera

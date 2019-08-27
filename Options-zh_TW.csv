@@ -150,19 +150,19 @@ Keys/Strafe Right,右移
 Keys/Toggle Melee Firearm,切換火槍近戰
 Keys/Toggle User Interface,切換用戶界面
 Keys/ReinforceOrder,加強秩序
-Keys/FormLineOrder,表格行順序
-Keys/FireAtWillOrder,意誌著火
-Keys/ChargeOrder,收費單
+Keys/FormLineOrder,形成線列
+Keys/FireAtWillOrder,自由開火
+Keys/ChargeOrder,衝鋒
 Keys/MakeReady,做好準備
-Keys/Fire,消防令
+Keys/Fire,開火
 Keys/CeaseFire,停火命令
-Keys/BreakRankAndFollow,打破排名並遵循順序
+Keys/BreakRankAndFollow,分散並遵循命令
 Keys/Up,上
 Keys/Voices Panel,語音版面
 Keys/ModeSelection,模式選擇
 Keys/Sappers,工兵
 Keys/Officers,長官
-Keys/ToggleOfficerWindow,發布訂單欄
+Keys/ToggleOfficerWindow,發布命令欄
 Keys/EquipHammer,裝備錘子
 Keys/Walk Run,走/跑
 Options,選項

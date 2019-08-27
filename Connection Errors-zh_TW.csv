@@ -1,8 +1,8 @@
 ﻿AlreadyConnectedHeader,已經連接
-YouAreStillConnected,您仍然連接到服務器。等待一會兒，然後再嘗試重新加入。
-BannedByAdministratorHeader,被管理員禁止
+YouAreStillConnected,您仍與服務器保持連接。請稍等片刻，再重新嘗試加入該服務器。
+BannedByAdministratorHeader,您被管理員ban了
 DeniedAccessToTheServer,您被拒絕訪問服務器。
-ContactServerAdministratorToAppeal,聯繫相關服務器管理員以申請禁令。
+ContactServerAdministratorToAppeal,請聯繫相關服務器管理員對您的禁令提出上訴。
 KickedByAdministratorHeader,被管理員踢了
 YouHaveBeenKickedByAnAdministrator,你被管理員踢了。
 EnsureToAbideByTheRules,確保您遵守服務器的規則。
@@ -16,16 +16,16 @@ DownloadBySteamInstructionBody,"1.退出Holdfast：戰爭中的國家。
 5.單擊“驗證遊戲文件的完整性...”按鈕。
 6.等到Steam完成驗證遊戲文件然後重新啟動遊戲。"
 GameServerNotUpdatedHeader,遊戲服務器未更新
-GameServerNotUpdated,遊戲服務器不及最新版本的Holdfast：Nations War。
+GameServerNotUpdated,遊戲服務器不是最新版本的Holdfast：Nations War。
 ContactServerAdminToUpdateServer,請與相關服務器管理員聯繫以更新服務器。
 PasswordIsIncorrectHeader,密碼不正確
 EnteredPasswordIsIncorrect,您輸入密碼不正確。
 PasswordsAreCaseSensitive,密碼區分大小寫。確保未啟用“大寫鎖定”鍵。
 GameServerIsFullHeader,遊戲服務器已滿
 GameServerCurrentlyFull,遊戲服務器目前已滿。
-JoinAnotherServerOrWaitForSlot,請加入其他服務器或等到插槽可用。
+JoinAnotherServerOrWaitForSlot,請先加入其他服務器或者等待服務器有空閒位置
 ServerShutdownHeader,服務器關機
-ServerWasShutdown,服務器已關閉。請加入其他服務器繼續播放。
+ServerWasShutdown,服務器已關閉。請加入其他服務器繼續遊玩。
 DisconnectedHeader,斷開的
 YouHaveBeenDisconnected,你已經與服務器斷開連接。
 YouMustBeConnectedToSteam,確保您沒有在“離線模式”下運行Steam。您必須連接到Steam才能玩。
@@ -44,7 +44,7 @@ TroubleshootInstructionBody,"1.退出然後再回到Steam上。
 9.嘗試通過Steam上的朋友聯繫。
 10.嘗試使用其他互聯網連接（如果有）。"
 RequestFurtherAssistance,請求Discord的進一步幫助。錯誤ID為{0}。
-SteamUnableToAuthenticateHeader,蒸汽無法驗證
+SteamUnableToAuthenticateHeader,steam無法驗證
 AuthenticateInstructionBody,"您無法通過Steam進行身份驗證。您必須連接到Steam才能玩。
 嘗試以下故障排除方法：
 
@@ -52,4 +52,4 @@ AuthenticateInstructionBody,"您無法通過Steam進行身份驗證。您必須�
 2.重新登錄Steam。
 3.重新啟動Holdfast：戰爭中的國家。"
 ServerMessageHeader,服務器消息
-SteamConnectionHeader,蒸汽連接
+SteamConnectionHeader,steam連接

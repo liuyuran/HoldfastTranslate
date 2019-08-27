@@ -1,27 +1,26 @@
-﻿"source","target"
-"Carcass Rocket","基础火箭"
-"Carry Ammo Requirements","需要掌握火炮操作技能"
-"Carry Ammobox","拿起炮弹"
-"Carry Rocket Ammobox","拿起火箭弹"
-"Carry Rocket Stack Requirements","需要掌握火炮操作技能"
-"Carry the ammo box around","搬起弹药箱"
-"Carry the rocket ammo box around","搬起火箭捆"
-"CarryExplosiveBarrel","拾起爆炸物"
-"CarryExplosiveBarrel Description","搬起火药桶"
-"CarryExplosiveBarrel Requirements","需要掌握军事工程技能"
-"Case Rocket","康格里夫火箭"
-"Chain Shot","链弹"
-"Grape Shot L","霰弹（大号）"
-"Grape Shot S","霰弹（小号）"
-"IgniteExplosiveBarrel","点燃"
-"IgniteExplosiveBarrel Description","点燃引信"
-"Lantern","提灯"
-"Lantern Description","毁灭性的大规模杀伤性武器"
-"Long range solid iron shot","长射程的实心铁弹"
-"Mass of small solid iron shots","内部填充了大量小弹丸的霰弹"
-"Round Shot","实心弹"
-"Shell Rocket","复合火箭"
-"Shell Rocket Description","前部安装了充满黑火药的弹头"
-"Spyglass","望远镜"
-"Spyglass Description","能够看到更远的地方"
-"Tears sails and cuts rigging","能够摧毁船帆和帆索"
+﻿Carcass Rocket,基础火箭
+Carry Ammo Requirements,需要掌握火炮操作技能
+Carry Ammobox,拿起炮弹
+Carry Rocket Ammobox,拿起火箭弹
+Carry Rocket Stack Requirements,需要掌握火炮操作技能
+Carry the ammo box around,搬起弹药箱
+Carry the rocket ammo box around,搬起火箭捆
+CarryExplosiveBarrel,拾起爆炸物
+CarryExplosiveBarrel Description,搬起火药桶
+CarryExplosiveBarrel Requirements,需要掌握军事工程技能
+Case Rocket,康格里夫火箭
+Chain Shot,链弹
+Grape Shot L,霰弹（大号）
+Grape Shot S,霰弹（小号）
+IgniteExplosiveBarrel,点燃
+IgniteExplosiveBarrel Description,点燃引信
+Lantern,提灯
+Lantern Description,毁灭性的大规模杀伤性武器
+Long range solid iron shot,长射程的实心铁弹
+Mass of small solid iron shots,内部填充了大量小弹丸的霰弹
+Round Shot,实心弹
+Shell Rocket,复合火箭
+Shell Rocket Description,前部安装了充满黑火药的弹头
+Spyglass,望远镜
+Spyglass Description,能够看到更远的地方
+Tears sails and cuts rigging,能够摧毁船帆和帆索

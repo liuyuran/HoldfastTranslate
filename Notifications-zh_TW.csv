@@ -57,6 +57,6 @@ ShootingPlatform,柵欄平台
 SpadeConstructMode,挖
 SpadeDeconstructMode,Undig
 SwitchedSapperMode,切換模式為{0}
-SwivelGun,旋轉槍
-SwivelGunCannotCarryByClass,你必須是一個工兵來攜帶旋轉槍。
+SwivelGun,迴旋炮
+SwivelGunCannotCarryByClass,只有工兵才能攜帶迴旋炮。
 TooManyItemsLimit,你的陣營無法構建更多此對象。

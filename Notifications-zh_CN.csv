@@ -57,6 +57,6 @@ ShootingPlatform,栅栏平台
 SpadeConstructMode,挖
 SpadeDeconstructMode,Undig
 SwitchedSapperMode,切换模式为{0}
-SwivelGun,旋转枪
-SwivelGunCannotCarryByClass,你必须是一个工兵来携带旋转枪。
+SwivelGun,回旋炮
+SwivelGunCannotCarryByClass,只有工兵才能携带旋转枪。
 TooManyItemsLimit,你的阵营无法构建更多此对象。

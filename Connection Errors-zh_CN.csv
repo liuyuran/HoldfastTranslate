@@ -1,8 +1,8 @@
 ﻿AlreadyConnectedHeader,已经连接
-YouAreStillConnected,您仍然连接到服务器。等待一会儿，然后再尝试重新加入。
-BannedByAdministratorHeader,被管理员禁止
+YouAreStillConnected,您仍与服务器保持连接。请稍等片刻，再重新尝试加入该服务器。
+BannedByAdministratorHeader,您被管理员ban了
 DeniedAccessToTheServer,您被拒绝访问服务器。
-ContactServerAdministratorToAppeal,联系相关服务器管理员以申请禁令。
+ContactServerAdministratorToAppeal,请联系相关服务器管理员对您的禁令提出上诉。
 KickedByAdministratorHeader,被管理员踢了
 YouHaveBeenKickedByAnAdministrator,你被管理员踢了。
 EnsureToAbideByTheRules,确保您遵守服务器的规则。
@@ -16,16 +16,16 @@ DownloadBySteamInstructionBody,"1.退出Holdfast：战争中的国家。
 5.单击“验证游戏文件的完整性...”按钮。
 6.等到Steam完成验证游戏文件然后重新启动游戏。"
 GameServerNotUpdatedHeader,游戏服务器未更新
-GameServerNotUpdated,游戏服务器不及最新版本的Holdfast：Nations War。
+GameServerNotUpdated,游戏服务器不是最新版本的Holdfast：Nations War。
 ContactServerAdminToUpdateServer,请与相关服务器管理员联系以更新服务器。
 PasswordIsIncorrectHeader,密码不正确
 EnteredPasswordIsIncorrect,您输入密码不正确。
 PasswordsAreCaseSensitive,密码区分大小写。确保未启用“大写锁定”键。
 GameServerIsFullHeader,游戏服务器已满
 GameServerCurrentlyFull,游戏服务器目前已满。
-JoinAnotherServerOrWaitForSlot,请加入其他服务器或等到插槽可用。
+JoinAnotherServerOrWaitForSlot,请先加入其他服务器或者等待服务器有空闲位置
 ServerShutdownHeader,服务器关机
-ServerWasShutdown,服务器已关闭。请加入其他服务器继续播放。
+ServerWasShutdown,服务器已关闭。请加入其他服务器继续游玩。
 DisconnectedHeader,断开的
 YouHaveBeenDisconnected,你已经与服务器断开连接。
 YouMustBeConnectedToSteam,确保您没有在“离线模式”下运行Steam。您必须连接到Steam才能玩。
@@ -44,7 +44,7 @@ TroubleshootInstructionBody,"1.退出然后再回到Steam上。
 9.尝试通过Steam上的朋友联系。
 10.尝试使用其他互联网连接（如果有）。"
 RequestFurtherAssistance,请求Discord的进一步帮助。错误ID为{0}。
-SteamUnableToAuthenticateHeader,蒸汽无法验证
+SteamUnableToAuthenticateHeader,steam无法验证
 AuthenticateInstructionBody,"您无法通过Steam进行身份验证。您必须连接到Steam才能玩。
 尝试以下故障排除方法：
 
@@ -52,4 +52,4 @@ AuthenticateInstructionBody,"您无法通过Steam进行身份验证。您必须�
 2.重新登录Steam。
 3.重新启动Holdfast：战争中的国家。"
 ServerMessageHeader,服务器消息
-SteamConnectionHeader,蒸汽连接
+SteamConnectionHeader,steam连接

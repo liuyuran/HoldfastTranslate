@@ -1,41 +1,40 @@
-﻿"source","target"
-"Assist Kill","协助击杀"
-"Dominating","主宰战场"
-"Drowned","溺水而亡"
-"Enemy Hit","击伤敌人"
-"Enemy Killed","击杀敌人"
-"Environment","环境交互"
-"Environment Damaged","破坏"
-"Environment Damaged Assist","助攻"
-"Fatal Fall","高空坠落"
-"Flag Bearer Kill","击杀旗手"
-"Friendly Hit","误伤队友"
-"FriendlyPlayerDamagedEmplacement","误伤友军工事"
-"FriendlyPlayerDestroyedEmplacement","破坏友军工事"
-"Headshot","爆头"
-"Kill Streak","连续击杀"
-"Killing Spree","杀人狂魔"
-"Long Range","精准射杀"
-"Multi Kill","多重击杀"
-"Officer Kill","击杀军官"
-"Oh thats brutal","不可阻挡"
-"PlayerBuildingEmplacement","建造工事"
-"PlayerBuiltEmplacement","完成工事"
-"PlayerDestroyedEmplacement","摧毁工事 "
-"PlayerDestroyingEmplacement","破坏工事"
-"PlayerRepairedEmplacement","修复工事"
-"PlayerRepairingArtillery","修理火炮"
-"PlayerRepairingEmplacement","修复工事"
-"Ship Damaged","击中船只"
-"Ship Damaged Assist","协助击中船只"
-"Ship Sunk Assist","协助击沉船只"
-"Ship Sunk Kill","击沉船只"
-"Team Kill","误杀队友"
-"Unstoppable","势不可挡"
-"is","是"
-"is on a","位于"
-"Support Class Kill","击杀支援者"
-"HealedPlayer","治疗队友"
-"AssistHealedPlayer","治疗完毕"
-"InLine","服从命令"
-"Guard Kill","击杀近卫"
+﻿Assist Kill,协助击杀
+Dominating,主宰战场
+Drowned,溺水而亡
+Enemy Hit,击伤敌人
+Enemy Killed,击杀敌人
+Environment,环境交互
+Environment Damaged,破坏
+Environment Damaged Assist,助攻
+Fatal Fall,高空坠落
+Flag Bearer Kill,击杀旗手
+Friendly Hit,误伤队友
+FriendlyPlayerDamagedEmplacement,误伤友军工事
+FriendlyPlayerDestroyedEmplacement,破坏友军工事
+Headshot,爆头
+Kill Streak,连续击杀
+Killing Spree,杀人狂魔
+Long Range,精准射杀
+Multi Kill,多重击杀
+Officer Kill,击杀军官
+Oh thats brutal,不可阻挡
+PlayerBuildingEmplacement,建造工事
+PlayerBuiltEmplacement,完成工事
+PlayerDestroyedEmplacement,摧毁工事 
+PlayerDestroyingEmplacement,破坏工事
+PlayerRepairedEmplacement,修复工事
+PlayerRepairingArtillery,修理火炮
+PlayerRepairingEmplacement,修复工事
+Ship Damaged,击中船只
+Ship Damaged Assist,协助击中船只
+Ship Sunk Assist,协助击沉船只
+Ship Sunk Kill,击沉船只
+Team Kill,误杀队友
+Unstoppable,势不可挡
+is,是
+is on a,位于
+Support Class Kill,击杀支援者
+HealedPlayer,治疗队友
+AssistHealedPlayer,治疗完毕
+InLine,服从命令
+Guard Kill,击杀近卫

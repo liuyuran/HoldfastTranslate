@@ -1,5 +1,5 @@
 ﻿Attributes,屬性
-Back,背部
+Back,後退
 BattleStartsIn,戰鬥開始於
 Class,兵种
 Class Selection,兵种選擇
@@ -34,7 +34,7 @@ Health,健康
 Agility,敏捷
 Swimming,游泳
 Damage,損傷
-Accuracy,準確性
+Accuracy,精準度
 Range,範圍
 Abilities,能力
 Orders,命令
