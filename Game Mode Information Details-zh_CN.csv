@@ -1,19 +1,20 @@
-﻿Brawl,全力以赴！达到一定数量的杀敌数以获胜。
-AttackersCapturePrimaryObjects,攻击者！在计时器用完之前捕获所有主要目标。协调攻击并使用火炮突破防御。 “孤独的希望”造成的生命损失是必要的牺牲。
-InvadersCaptureEnemyFortification,入侵者！捕获对立阵营的防御工事。在海军陆战队员和船员登陆岸之前，充分利用火箭和大炮突破防御阵地。
-ControlAndConquer,控制和征服！保卫和捕捉地图周围的目标以取得胜利。
-DefendersPreventAssaultingForces,防御者们！阻止进攻部队占领你们的主要目标。你们需要在有限的增援下存活下去直到回合时间耗尽。充分利用好掩体。
-DefendersPreventInvadingForces,捍卫者！防止入侵部队捕获你的沿海防御工事。你的增援是有限的。操纵堡垒的枪支，防止入侵者入侵。
-EveryoneIsYourEnemy,每个人都是你的敌人。 这也包括来自同一阵营的玩家。
-GatherTickets,收集门票！控制比敌人收集门票更多的目标。这是赢得比赛的关键。
-LastStand,坚持！这是你在无增援的情况下最后扭转乾坤的机会。
-LimitedReinforcements,有限的增援！务必制定策略并进行协调。如果它们耗尽，你将无法再生成。
-PlayTogetherCoordinateAssaults,一起玩！协调攻击和制定战略。除非你的团队数量更多，否则目标不能被捕获。
-SailWithTheWind,顺风而行！ 小地图上的箭头的方向标明了风来的方向。 转向到对你有利的潮流。
-RaiseSailsAndLowerThem,启航！按[{0}]升高风帆，按[{1}]降低风速。
-SingleLife,单身生活！如果你遇到了你的结局，你将不得不等待一轮完成才能重生。一定要好好利用它。
-SinkEnemyShips,击沉敌船！充分用好链弹和实心弹来击沉敌方船只。和你的船员伙伴们一起努力实现这个目标。
-SpawningInWaves,出生会以一波形式进行。利用其当作集合和组织队伍的机会。
-Spyglass,使用望远镜来辨明敌友。所有的海军船只都悬挂着它们所属阵营的旗帜。
-MeleeCombat,在近战竞技场中最好的对手！制定战略并罢工。阻挡是赢得比赛的关键。
-Rowboats,一旦沉没，船舶不会重生！如果您的船只通往海底，请使用划艇登船和船员联盟船只。
+﻿"source","target"
+"Brawl","请尽力杀敌，在该模式下任意一方获得足够的击杀数即可取得胜利。"
+"AttackersCapturePrimaryObjects","作为进攻方，请在倒计时结束前攻占所有胜利点。善用己方所拥有的火炮突破对方的防御，在必要的时候，也请务必不要吝惜手中的后备兵力。"
+"InvadersCaptureEnemyFortification","作为进攻方，你需要在倒计时结束前抢占滩头堡垒中的胜利点。堡垒有着完善的防御，所以请在陆战队发动进攻前尽可能破坏对方的防御体系。"
+"ControlAndConquer","在该模式下，唯一的目标就是尽可能攻占地图中的胜利点。 "
+"DefendersPreventAssaultingForces","作为防御方，请充分利用有限的后备兵力和堡垒中的防御设施阻止进攻方攻占胜利点。"
+"DefendersPreventInvadingForces","作为防御方，请充分利用有限的后备兵力和堡垒中的防御设施阻止进攻方攻占胜利点。"
+"EveryoneIsYourEnemy","该模式下没有敌我之分，除了你自己，每一个人都是敌人。"
+"GatherTickets","请收集尽可能多的点数，点数率先达到规定数值的一方会获得胜利。攻占胜利点越多，点数获取速度越快。"
+"LastStand","己方的后备兵力已经耗尽，但请坚持战斗到最后，不到最后一秒谁也不知道会发生什么。"
+"LimitedReinforcements","后备兵力是有限的，所以请充分运用大脑进行合理分配。"
+"PlayTogetherCoordinateAssaults","请务必注意团队配合，胜利点只有在己方兵力具有局部优势时才会开始被占领。"
+"SailWithTheWind","请避免逆风而行，小地图上已经标明了风向。"
+"RaiseSailsAndLowerThem","按[{0}]可以升帆，按[{1}]可以降帆。"
+"SingleLife","在该模式下，每个玩家仅能进入战场一次，如果阵亡了，就只能等待下一轮游戏了。"
+"SinkEnemyShips","和船员们通力配合，使用实心弹和链弹击沉对方战舰。"
+"SpawningInWaves","对战场的兵力投放是波次进行的，所以请充分利用这难得的集结机会。"
+"Spyglass","你可以通过望远镜来辨明敌友，因为每一艘战舰都挂着本国的旗帜。"
+"MeleeCombat","谨慎规划行动方针，如果你擅长格挡的话，存活机率就会大大增加。"
+"Rowboats","该模式中船只被击沉后，不会再有后续船只抵达，所以被击沉船只的船员请转移到其他幸存船只上。"
