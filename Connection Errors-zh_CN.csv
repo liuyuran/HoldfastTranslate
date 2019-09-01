@@ -16,12 +16,12 @@
 4.转到“本地文件”选项卡。
 5.单击“验证游戏文件的完整性...”按钮。
 6.等待Steam完成验证后重新启动游戏。"
-"GameServerNotUpdatedHeader","游戏服务器版本过旧"
-"GameServerNotUpdated","游戏服务器并非最新版本。"
+"GameServerNotUpdatedHeader","游戏服务器未更新"
+"GameServerNotUpdated","游戏服务器不及最新版本的Holdfast：Nations War。"
 "ContactServerAdminToUpdateServer","请与相关服务器管理员联系以更新服务器。"
 "PasswordIsIncorrectHeader","密码不正确"
-"EnteredPasswordIsIncorrect","您输入的密码不正确。"
-"PasswordsAreCaseSensitive","密码区分大小写，确保没有打开大写锁定。"
+"EnteredPasswordIsIncorrect","您输入密码不正确。"
+"PasswordsAreCaseSensitive","密码区分大小写。确保未启用“大写锁定”键。"
 "GameServerIsFullHeader","游戏服务器已满"
 "GameServerCurrentlyFull","游戏服务器目前已满。"
 "JoinAnotherServerOrWaitForSlot","请先加入其他服务器或者等待服务器有空闲位置。"
@@ -32,7 +32,7 @@
 "YouMustBeConnectedToSteam","确保您没有在“离线模式”下运行Steam，您必须连接到Steam网络才能进入游戏。"
 "UnableToConnectHeader","无法连接"
 "CheckInternetConnectionStability","您无法连接到服务器，确保您的互联网连接稳定。"
-"TroubleshootInstructionHeader","建议尝试以下方法排除故障："
+"TroubleshootInstructionHeader","还建议尝试以下故障排除方法："
 "TroubleshootInstructionBody","1.退出游戏。
 2.重新插拔网线。
 3.重新启动路由器。
