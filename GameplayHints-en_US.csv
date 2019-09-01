@@ -1,13 +1,13 @@
-﻿HighCommandArmy/Description,"Press '{0}' to issue orders"
-Musician/Description,"Press '{0}' to equip your {1}"
-Engineer/Description,"Press '{0}' to equip your hammer"
-Medic/Description,"Hold '{0}' to heal a nearby ally"
+﻿HighCommandArmy/Description,Press {0} to issue orders
+Musician/Description,Press {0} to equip your {1}
+Engineer/Description,Press {0} to equip your hammer
+Medic/Description,Hold {0} to heal a nearby ally
 GameplayHints,Hints
 Tooltips,Tooltips
-MusicianToggle/Description,"Press '{0}' to play a tune"
-EngineerToggle/Description,"Hold '{0}' to construct"
-SwitchToMeleeHint,"Press '{0}' to switch to melee mode"
-SwitchToFirearmHint,"Press '{0}' to switch to firearm mode"
-HighCommandArmyToggle/Description,"Press '{0}' to cease issuing orders"
+MusicianToggle/Description,Press {0} to play a tune
+EngineerToggle/Description,Hold {0} to construct
+SwitchToMeleeHint,Press {0} to switch to melee mode
+SwitchToFirearmHint,Press {0} to switch to firearm mode
+HighCommandArmyToggle/Description,Press {0} to cease issuing orders
 OrdersAreDisabled,Orders are disabled
-SailForwardDescription,"Press '{0}' to set sail"
+SailForwardDescription,Press {0} to set sail
